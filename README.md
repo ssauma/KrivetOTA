@@ -1,6 +1,4 @@
-## Welcome to KRIVET iOS Application OTA Page
-
-#iOS
+## iOS
 
 [Krivet App 설치](itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/w82i0kw0ghg8pdh/KRIVETApp.plist)
 
@@ -9,7 +7,7 @@
 [스마트북 설치](itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/73jn3ievkke0h8v/SmartBook.plist)
 
 
-#Android
+## Android
 
 [Krivet App 설치](https://dl.dropboxusercontent.com/s/m7aaryj9vqt0fjh/KRIVETApp.apk)
 
